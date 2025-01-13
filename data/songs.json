@@ -1,0 +1,14 @@
+[
+    {
+         "id":1,
+         "title":"These are the days",
+         "artist":"Vaibhav",
+         "album":"Hostel Daze",
+         "genre":"",
+         "artworkUrl":"",
+         "duration":216,
+         "songUrl":"",
+         "releaseDate":"2020-12-01",
+         "isFavorite":false
+    }
+]
